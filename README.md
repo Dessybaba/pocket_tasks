@@ -18,6 +18,7 @@ A Flutter task manager app for Android with task CRUD, filtering, sorting, and a
 
 ```bash
 git clone https://github.com/Dessybaba/pocket-tasks.git
+test online https://appetize.io/app/b_ql3gdzmi75vkupnfivg266qhli
 cd pocket-tasks
 flutter pub get
 flutter run
